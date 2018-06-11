@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: Attendance
+## Notes: Light weight attendance tracker
+## Author: Neum
+## Version: 0.0.1
+## SavedVariables: AttendanceDB
+
+embeds.xml
+
+Attendance.lua
